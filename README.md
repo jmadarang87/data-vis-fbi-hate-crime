@@ -49,3 +49,6 @@ This project was created with the following datasets:
 - [statista's Resident population of the United States by race from 2000 to 2020](https://www.statista.com/statistics/183489/population-of-the-us-by-ethnicity-since-2000/)
 
 ## Preview
+<img width="468" alt="Top5HateCrimePieChart" src="https://user-images.githubusercontent.com/22069784/180958345-7fe2e531-3c23-4fea-ade2-3d62b2109ee5.png">
+<img width="920" alt="%ofPopLineGraph" src="https://user-images.githubusercontent.com/22069784/180958371-28903de5-7804-4d33-8893-feca9165aa84.png">
+
